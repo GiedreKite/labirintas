@@ -1,19 +1,3 @@
-# Labirintas
-
-Studentiskas projektas, kuriame mokomes HTML ir CSS pradmenu.
-https://dribbble.com/shots/2537184-Day-008-404-Page-Daily-UI
-
-.md - markdown (failo tipas)
-Sintakse, kaip pateikti turini tokio  tipo faile ![cia](https://github.com/GiedreKite/labirintas/assets/167992892/30f4c672-e34d-48ca-bf72-951bb9529d29)
-
-
-## Pasileisti projekta savo kompiuteryje reikia:
-
-1. tureti Node JS
-2. Atsidarius terninala suvesti: npm run dev
-
-
-
 ![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
@@ -29,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/50-grupe-labirintas/
+Site published at: https://[https://github.com/GiedreKite/labirintas]/
 
 Design: [Labirintas](https://dribbble.com/shots/2537184-Day-008-404-Page-Daily-UI)
 
@@ -62,7 +46,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/50-grupe-labirintas.git
+    git clone https://github.com/GiedreKite/labirintas.git
     ```
 2. Install NPM packages
     ```sh
@@ -83,7 +67,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Rimantas: [Github](https://github.com/)
 
 ## ⚠️ License
 
