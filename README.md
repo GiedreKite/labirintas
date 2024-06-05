@@ -67,7 +67,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rimantas: [Github]((https://github.com/GiedreKite)
+Giedre: [Github]((https://github.com/GiedreKite)
 
 ## ⚠️ License
 
